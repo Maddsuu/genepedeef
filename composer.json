@@ -1,0 +1,17 @@
+{
+    "name": "acer/generet",
+    "autoload": {
+        "psr-4": {
+            "Acer\\Generet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mad",
+            "email": "akhmadiskandar18@gmail.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.7"
+    }
+}
